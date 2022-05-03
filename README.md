@@ -1,1 +1,1 @@
-# canary-deployment
+# jenkins-kubernetes-example
